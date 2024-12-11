@@ -145,7 +145,7 @@
 * fix(invalidCodePrefix): make it work ([#1330](https://github.com/Consensys/linea-tracer/pull/1330))
 
 ## 0.7.0-rc1
-* chore: don't postTxDefers TrasactionMetaData ([#1325](https://github.com/Consensys/linea-tracer/pull/1325))
+* chore: don't postTxDefers TransactionMetaData ([#1325](https://github.com/Consensys/linea-tracer/pull/1325))
 * chore: upgrade Linea Besu to 24.9-delivery33 ([#1328](https://github.com/Consensys/linea-tracer/pull/1328))
 * fix(ReturnSection): max code size ([#1313](https://github.com/Consensys/linea-tracer/pull/1313))
 * fix(mmu): invalidCodePrefix with empty memory ([#1310](https://github.com/Consensys/linea-tracer/pull/1310))

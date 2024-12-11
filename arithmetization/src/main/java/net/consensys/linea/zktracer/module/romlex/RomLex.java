@@ -59,7 +59,7 @@ public class RomLex
       new ModuleOperationStackedSet<>();
 
   @Getter private List<RomOperation> sortedOperations;
-  Map<ContractMetadata, Integer> cfiMetadataCorrespondance = new HashMap<>();
+  Map<ContractMetadata, Integer> cfiMetadataCorrespondence = new HashMap<>();
   @Getter private Bytes byteCode = Bytes.EMPTY;
   private Address address = Address.ZERO;
 
